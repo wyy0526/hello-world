@@ -1,6 +1,5 @@
 public class HelloJava{
-
-public static void main(String[] args) {
-System.out.rpintln("Hello Java");
-}
+	public static void main(String[] args) {
+		System.out.rpintln("Hello Java");
+	}
 }
